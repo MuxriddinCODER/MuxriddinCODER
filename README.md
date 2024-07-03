@@ -1,8 +1,7 @@
 Привет 👋 Меня зовут М. =======================
 
-<a href="https://www.github.com/MuxriddinCODER" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/MuxriddinCODER?logo=github&style=for-the-badge&color=0891b2&labelColor=7f1d1d" />
-</a>
+<a href="https://www.github.com/MuxriddinCODER" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MuxriddinCODER?logo=github&style=for-the-badge&color=0891b2&labelColor=7f1d1d" /></a>
+
 
 ### Навыки
 
