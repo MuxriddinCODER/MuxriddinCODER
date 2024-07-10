@@ -6,7 +6,7 @@
 
 * 🌍 I'm based in Узбекистан
 * ✉️ You can contact me at [muxnematov@gmail.com](mailto:muxnematov@gmail.com)
-* 🧠 I'm learning Adobe After Effects
+* 🧠 I'm learning Adobe Photoshop
 
 ### Skills
 <p align="left">
